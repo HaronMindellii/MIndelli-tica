@@ -1,1 +1,1 @@
-# MIndelli-otica
+# Mindelli-otica
